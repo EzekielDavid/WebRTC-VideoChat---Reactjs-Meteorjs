@@ -1,0 +1,12 @@
+{
+ "accountSid": "AC3a67d7921e3ff78ecf8a72ff78e90203",
+  "authToken": "6f040170cfb16c2a2b2b44397b1e3f40",
+   "twilio_number": "+14107024213",
+   	"kadira": { 
+		"appId": "PZBxk8XTJQERJErvF", 
+  		"appSecret": "3f6d45b6-f53b-4eff-be50-12556a978297",
+		"options": {
+			"endpoint": "http://159.203.64.250:11011"
+		}
+	}
+}
